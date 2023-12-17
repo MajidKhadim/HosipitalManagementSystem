@@ -1,0 +1,7 @@
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\bin\Debug\hospitalManagementSystemAssignment.exe.config
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\bin\Debug\hospitalManagementSystemAssignment.exe
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\bin\Debug\hospitalManagementSystemAssignment.pdb
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\obj\Debug\hospitalManagementSystemAssignment.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\obj\Debug\hospitalManagementSystemAssignment.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\obj\Debug\hospitalManagementSystemAssignment.exe
+C:\Users\PMLS\Desktop\ConsoleApp1\hospitalManagementSystemAssignment\obj\Debug\hospitalManagementSystemAssignment.pdb
